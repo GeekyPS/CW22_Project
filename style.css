@@ -1,10 +1,11 @@
 .titlebar{
     display: grid;
-    grid-template-columns: 3fr 5fr 2fr;
+    grid-template-columns: 0.1fr 3fr 5fr 2fr;
     row-gap: 10px;
     column-gap: 10px;
     vertical-align: top;
 }
+
 
 .sitename{
     display: inline-block;
