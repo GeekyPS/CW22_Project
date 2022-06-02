@@ -71,3 +71,8 @@
     clear: both;
     display: table;
   }
+
+  .carouselExampleIndicators{
+      width: 100px;
+  }
+
