@@ -5,6 +5,10 @@
     column-gap: 10px;
     vertical-align: top;
 }
+.logicon{
+    padding-top: 10px;
+}
+
 
 
 .sitename{
@@ -33,9 +37,10 @@
 
 .searchbar{
     display: inline-block;
-    margin-top: 10px;
+    margin-top: 20px;
+    
 }
- {
+{
     box-sizing: border-box;
   }
   
@@ -76,4 +81,56 @@
   .carouselExampleIndicators{
       width: 100px;
   }
+
+
+  body{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+.card{
+    border: none;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+.text1{
+    font-size: 13;
+    color: #cbcbcb;
+}
+
+.info{
+    line-height: 13px;
+}
+
+.cost span{
+    color: #286783;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.button-color{
+    background: #3f0251;
+    border-bottom-left-radius: 8px;
+    border-top-right-radius: 8px;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+ul{
+    display: inline-flex;
+    overflow: auto;
+}
+
+ul > li{
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+.carouselExampleInterval{
+    height: 100px;
+}
 
