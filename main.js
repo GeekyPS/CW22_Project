@@ -2,7 +2,7 @@ const data = [
     {
         "id": 1,
         "title": "iPhone 9",
-        "description": "An apple mobile which is nothing like apple phone",
+        "description": "An apple mobile which is nothing like apple phone, Does More,Costs Less",
         "price": 549,
         "discountPercentage": 12.96,
         "rating": 4.69,
@@ -21,7 +21,7 @@ const data = [
     {
         "id": 2,
         "title": "iPhone X",
-        "description": "Practically Magic, SIM Free,A12 Bionic chip and Retina Display",
+        "description": "Practically Magic, SIM Free,A12 Bionic chip and Retina Display with a big notch",
         "price": 899,
         "discountPercentage": 17.94,
         "rating": 4.44,
@@ -39,7 +39,7 @@ const data = [
     {
         "id": 3,
         "title": "Samsung Universe ",
-        "description": "Lets go Beyong Galaxy to the universe with Samsung",
+        "description": "Lets go Beyong Galaxy to the universe with Samsung and this phone",
         "price": 1249,
         "discountPercentage": 15.46,
         "rating": 4.09,
@@ -54,7 +54,7 @@ const data = [
     {
         "id": 4,
         "title": "OPPOF19",
-        "description": "OPPO F19 is officially announced on April 2021.",
+        "description": "OPPO F19 is officially announced on April 2021 and is a premium camera phone",
         "price": 280,
         "discountPercentage": 17.91,
         "rating": 4.3,
@@ -73,7 +73,7 @@ const data = [
     {
         "id": 5,
         "title": "Huawei P30",
-        "description": "Huawei new Phone , just got released in Germany",
+        "description": "Huawei new Phone , just got released in Germany and now we may get it in India",
         "price": 499,
         "discountPercentage": 10.58,
         "rating": 4.09,
@@ -90,7 +90,7 @@ const data = [
     {
         "id": 6,
         "title": "MacBook Pro",
-        "description": "MacBook Pro with mini-LED display may launch in September",
+        "description": "MacBook Pro with mini-LED display may launch in September with M2 max chipset",
         "price": 1749,
         "discountPercentage": 11.02,
         "rating": 4.57,
@@ -274,8 +274,8 @@ const data = [
     },
     {
         "id": 16,
-        "title": "Hyaluronic Acid Serum",
-        "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
+        "title": "Hyaluronic Serum",
+        "description": "L'Orealal Paris introduces Hyaluron  Serum made with 1.5% Hyaluronic Acid",
         "price": 19,
         "discountPercentage": 13.31,
         "rating": 4.83,
@@ -294,7 +294,7 @@ const data = [
     {
         "id": 17,
         "title": "Tree Oil 30ml",
-        "description": "Tea tree oil contains a number of compounds, that have been shown to kill certain bacteria,",
+        "description": "Tea tree oil contains many compounds, that have been shown to kill certain bacteria,",
         "price": 12,
         "discountPercentage": 4.09,
         "rating": 4.52,
@@ -311,7 +311,7 @@ const data = [
     },
     {
         "id": 18,
-        "title": "Oil Free Moisturizer 100ml",
+        "title": "Oil Free Moisturizer",
         "description": "Dermive Oil Free Moisturizer with SPF 20 with ceramides & sunscreen.",
         "price": 40,
         "discountPercentage": 13.1,
@@ -349,7 +349,7 @@ const data = [
     {
         "id": 20,
         "title": "Freckle Treatment Cream- 15gm",
-        "description": "Fair & Clear helps fade Freckles, Darkspots and pigments. Mercury level is 0%, so there are no side effects.",
+        "description": "Fair & Clear helps fade Freckles & Darkspots. 0% Mercury Level.",
         "price": 70,
         "discountPercentage": 16.99,
         "rating": 4.06,
@@ -401,8 +401,8 @@ const data = [
     },
     {
         "id": 23,
-        "title": "Orange Essence Food Flavou",
-        "description": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
+        "title": "Orange Essence Food Flavour",
+        "description": "Orange Essence Food Flavour For Cakes and Baking Food Item",
         "price": 14,
         "discountPercentage": 8.04,
         "rating": 4.85,
@@ -420,7 +420,7 @@ const data = [
     },
     {
         "id": 24,
-        "title": "cereals muesli fruit nuts",
+        "title": "Muesli Fruit Nuts",
         "description": "original fauji cereal muesli 2cereal break fast fauji cereals cerels cerel foji fouji",
         "price": 46,
         "discountPercentage": 16.8,
@@ -439,7 +439,7 @@ const data = [
     },
     {
         "id": 25,
-        "title": "Gulab Powder 50 Gram",
+        "title": "Gulab Powder ",
         "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
         "price": 70,
         "discountPercentage": 13.58,
@@ -458,7 +458,7 @@ const data = [
     },
     {
         "id": 26,
-        "title": "Plant Hanger For Home",
+        "title": "Plant Hanger",
         "description": "Boho Decor Plant Hanger For Home Wall Decoration Macrame Wall Hanging Shelf",
         "price": 41,
         "discountPercentage": 17.86,
@@ -479,7 +479,7 @@ const data = [
     {
         "id": 27,
         "title": "Flying Wooden Bird",
-        "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
+        "description": "Includes 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material",
         "price": 51,
         "discountPercentage": 15.58,
         "rating": 4.41,
@@ -498,7 +498,7 @@ const data = [
     {
         "id": 28,
         "title": "3D Embellishment Art Lamp",
-        "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button cell operated (included)",
+        "description": "3D led lamp sticker Wall 3D wall art light on/off cell operated ",
         "price": 20,
         "discountPercentage": 16.49,
         "rating": 4.82,
@@ -516,8 +516,8 @@ const data = [
     },
     {
         "id": 29,
-        "title": "Handcraft Chinese style",
-        "description": "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
+        "title": "Handcraft-Chinese ",
+        "description": "Handcraft Chinese style villa mansion home decor ceramic vase & brass fruit plate",
         "price": 60,
         "discountPercentage": 15.34,
         "rating": 4.44,
@@ -536,7 +536,7 @@ const data = [
     {
         "id": 30,
         "title": "Key Holder",
-        "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
+        "description": "Attractive Design Metallic material Reliable & Durable Premium Quality ",
         "price": 30,
         "discountPercentage": 2.92,
         "rating": 4.92,
@@ -598,7 +598,7 @@ function loadProducts(data) {
 
     var li = document.createElement('li');
 
-    li.innerHTML = 
+    li.innerHTML =
         '<div class="card  height:"100"">' +
         '<div class="product-1 align-items-center p-2 text-center"> <img src="' + data.images[0] + '" class="rounded" width="150" height="100">' +
         '<h6 class="mt-0 font-weight-bold mb-2 info">' + data.title + '</h6>' +
@@ -606,8 +606,8 @@ function loadProducts(data) {
         '<div class=" cost mt-1 text-dark"> <span>$' + data.price + '</span>' +
         '</div>' +
         '</div>' +
-        '<div class="button-color p-2 text-center text-white"> <span class="text-uppercase ">Add To Cart</span> </div>' +
+        '<div class="button-color p-2 text-center text-white"> <span class="text-uppercase "><a href="Error.html" class="error">Add To Cart</a></span> </div>' +
         '</div>';
-     
+
     document.getElementById("home_product").appendChild(li);
 }
