@@ -1,61 +1,64 @@
-.titlebar{
+.titlebar {
     display: grid;
     grid-template-columns: 0.1fr 3fr 5fr 2fr;
     row-gap: 10px;
     column-gap: 10px;
     vertical-align: top;
 }
-.logicon{
+
+.logicon {
     padding-top: 10px;
 }
 
+.order {
+    color: grey;
+}
 
-
-.sitename{
+.sitename {
     display: inline-block;
     padding-left: 10px;
     padding-top: 20px;
     padding-bottom: 10px;
-    
-   
-
 }
-.sitelist{
+
+.sitelist {
     display: inline-block;
     margin-top: 20px;
     margin-left: 90px;
     margin-right: 20px;
     text-align: right;
     font-size: 20px;
-    
+
 }
-.logoname{
+
+.logoname {
     display: inline-block;
     font-weight: bolder;
-    
+
 }
 
-.searchbar{
+.searchbar {
     display: inline-block;
     margin-top: 20px;
-    
-}
-{
-    box-sizing: border-box;
-  }
-  
 
-  form.example input[type=text] {
+}
+
+    {
+    box-sizing: border-box;
+}
+
+
+form.example input[type=text] {
     padding: 10px;
     font-size: 17px;
     border: 1px solid grey;
     float: left;
     width: 80%;
     background: #f1f1f1;
-  }
-  
+}
 
-  form.example button {
+
+form.example button {
     float: left;
     width: 20%;
     padding: 10px;
@@ -63,27 +66,27 @@
     color: white;
     font-size: 17px;
     border: 1px solid grey;
-    border-left: none; 
+    border-left: none;
     cursor: pointer;
-  }
-  
-  form.example button:hover {
-    background: #0b7dda;
-  }
-  
+}
 
-  form.example::after {
+form.example button:hover {
+    background: #0b7dda;
+}
+
+
+form.example::after {
     content: "";
     clear: both;
     display: table;
-  }
+}
 
-  .carouselExampleIndicators{
-      width: 100px;
-  }
+.carouselExampleIndicators {
+    width: 100px;
+}
 
 
-  body{
+body {
     margin: 0;
     padding: 0;
 
@@ -91,28 +94,28 @@
 
 
 
-.card{
+.card {
     border: none;
     border-radius: 8px;
     background-color: #fff;
 }
 
-.text1{
+.text1 {
     font-size: 13;
     color: #cbcbcb;
 }
 
-.info{
+.info {
     line-height: 13px;
 }
 
-.cost span{
+.cost span {
     color: #286783;
     font-weight: bold;
     font-size: 16px;
 }
 
-.button-color{
+.button-color {
     background: #3f0251;
     border-bottom-left-radius: 8px;
     border-top-right-radius: 8px;
@@ -120,21 +123,34 @@
     font-size: 14px;
 }
 
-ul{
+ul {
     display: inline-flex;
     overflow: auto;
 }
 
-ul > li{
+ul>li {
     display: inline-block;
     padding: 10px 20px;
 }
 
-.carouselExampleInterval{
+.carouselExampleInterval {
     height: 100px;
 }
 
-.hello{
+.hello {
     font-weight: bold;
     font-size: 30px;
+}
+
+.carousel {
+    width: 50%;
+    height: 500px;
+}
+
+.hello {
+    height: 500px;
+}
+
+.slidetitle {
+    font-weight: bolder;
 }
