@@ -2,7 +2,7 @@ const data = [
     {
         "id": 1,
         "title": "iPhone 9",
-        "description": "An apple mobile which is nothing like apple",
+        "description": "An apple mobile which is nothing like apple phone",
         "price": 549,
         "discountPercentage": 12.96,
         "rating": 4.69,
@@ -21,7 +21,7 @@ const data = [
     {
         "id": 2,
         "title": "iPhone X",
-        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+        "description": "Practically Magic, SIM Free,A12 Bionic chip and Retina Display",
         "price": 899,
         "discountPercentage": 17.94,
         "rating": 4.44,
@@ -38,8 +38,8 @@ const data = [
     },
     {
         "id": 3,
-        "title": "Samsung Universe 9",
-        "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+        "title": "Samsung Universe ",
+        "description": "Lets go Beyong Galaxy to the universe with Samsung",
         "price": 1249,
         "discountPercentage": 15.46,
         "rating": 4.09,
@@ -73,7 +73,7 @@ const data = [
     {
         "id": 5,
         "title": "Huawei P30",
-        "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+        "description": "Huawei new Phone , just got released in Germany",
         "price": 499,
         "discountPercentage": 10.58,
         "rating": 4.09,
@@ -90,7 +90,7 @@ const data = [
     {
         "id": 6,
         "title": "MacBook Pro",
-        "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+        "description": "MacBook Pro with mini-LED display may launch in September",
         "price": 1749,
         "discountPercentage": 11.02,
         "rating": 4.57,
@@ -108,7 +108,7 @@ const data = [
     {
         "id": 7,
         "title": "Samsung Galaxy Book",
-        "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+        "description": "Galaxy Book With 8GB RAM and MacBook inspired",
         "price": 1499,
         "discountPercentage": 4.15,
         "rating": 4.25,
@@ -126,7 +126,7 @@ const data = [
     {
         "id": 8,
         "title": "Microsoft Surface Laptop 4",
-        "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+        "description": "Style and speed. Capture ideas on the vibrant touchscreen.",
         "price": 1499,
         "discountPercentage": 10.23,
         "rating": 4.43,
@@ -164,7 +164,7 @@ const data = [
     {
         "id": 10,
         "title": "HP Pavilion 15-DK1056WM",
-        "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+        "description": "HP Pavilion Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD",
         "price": 1099,
         "discountPercentage": 6.18,
         "rating": 4.43,
@@ -181,8 +181,8 @@ const data = [
     },
     {
         "id": 11,
-        "title": "perfume Oil",
-        "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+        "title": "Perfume Oil",
+        "description": "Mega Discount,attar perfume Oil with rare essence from Himalayas",
         "price": 13,
         "discountPercentage": 8.4,
         "rating": 4.26,
@@ -200,7 +200,7 @@ const data = [
     {
         "id": 12,
         "title": "Brown Perfume",
-        "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+        "description": "Royal Mirage Extreme Sport Brown Perfume for Men & Women : 120ml",
         "price": 40,
         "discountPercentage": 15.66,
         "rating": 4,
@@ -218,8 +218,8 @@ const data = [
     },
     {
         "id": 13,
-        "title": "Fog Scent Xpressio Perfume",
-        "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
+        "title": "Fog Scent Xpressio ",
+        "description": " Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
         "price": 13,
         "discountPercentage": 8.14,
         "rating": 4.59,
@@ -237,8 +237,8 @@ const data = [
     },
     {
         "id": 14,
-        "title": "Non-Alcoholic Concentrated Perfume Oil",
-        "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+        "title": "Non-Alcoholic Perfume Oil",
+        "description": "Original Al Munakh® by Mahal Al Musk  Perfume Oil",
         "price": 120,
         "discountPercentage": 15.6,
         "rating": 4.21,
@@ -256,7 +256,7 @@ const data = [
     {
         "id": 15,
         "title": "Eau De Perfume Spray",
-        "description": "Genuine Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+        "description": "Genuine Al-Rehab spray perfume from UAE High Quality",
         "price": 30,
         "discountPercentage": 10.99,
         "rating": 4.7,
@@ -294,7 +294,7 @@ const data = [
     {
         "id": 17,
         "title": "Tree Oil 30ml",
-        "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
+        "description": "Tea tree oil contains a number of compounds, that have been shown to kill certain bacteria,",
         "price": 12,
         "discountPercentage": 4.09,
         "rating": 4.52,
@@ -312,7 +312,7 @@ const data = [
     {
         "id": 18,
         "title": "Oil Free Moisturizer 100ml",
-        "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
+        "description": "Dermive Oil Free Moisturizer with SPF 20 with ceramides & sunscreen.",
         "price": 40,
         "discountPercentage": 13.1,
         "rating": 4.56,
@@ -349,7 +349,7 @@ const data = [
     {
         "id": 20,
         "title": "Freckle Treatment Cream- 15gm",
-        "description": "Fair & Clear is Pakistan's only pure Freckle cream which helpsfade Freckles, Darkspots and pigments. Mercury level is 0%, so there are no side effects.",
+        "description": "Fair & Clear helps fade Freckles, Darkspots and pigments. Mercury level is 0%, so there are no side effects.",
         "price": 70,
         "discountPercentage": 16.99,
         "rating": 4.06,
@@ -421,7 +421,7 @@ const data = [
     {
         "id": 24,
         "title": "cereals muesli fruit nuts",
-        "description": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
+        "description": "original fauji cereal muesli 2cereal break fast fauji cereals cerels cerel foji fouji",
         "price": 46,
         "discountPercentage": 16.8,
         "rating": 4.94,
@@ -598,14 +598,16 @@ function loadProducts(data) {
 
     var li = document.createElement('li');
 
-    li.innerHTML = '<div class="card mt-1">' +
+    li.innerHTML = 
+        '<div class="card  height:"100"">' +
         '<div class="product-1 align-items-center p-2 text-center"> <img src="' + data.images[0] + '" class="rounded" width="150" height="100">' +
         '<h6 class="mt-0 font-weight-bold mb-2 info">' + data.title + '</h6>' +
-        '<div class="mt-3 info"> <span class="text1 d-block">' + data.description + ' </span> </div>' +
+        '<div class="mt-3 info"> <span class="text1 d-block"><small>' + data.description + '</small> </span> </div>' +
         '<div class=" cost mt-1 text-dark"> <span>$' + data.price + '</span>' +
         '</div>' +
         '</div>' +
-        '<div class="button-color p-2 text-center text-white"> <span class="text-uppercase ">Add to cart</span> </div>' +
+        '<div class="button-color p-2 text-center text-white"> <span class="text-uppercase ">Add To Cart</span> </div>' +
         '</div>';
+     
     document.getElementById("home_product").appendChild(li);
 }
