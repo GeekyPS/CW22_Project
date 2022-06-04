@@ -79,9 +79,7 @@ form.example::after {
     display: table;
 }
 
-.carouselExampleIndicators {
-    width: 100px;
-}
+
 
 
 body {
@@ -131,23 +129,18 @@ ul>li {
     padding: 10px 20px;
 }
 
-.carouselExampleInterval {
-    display: inline-block;
-    height: 100px;
-}
-
 .hello {
     font-weight: bold;
     font-size: 30px;
 }
 
 .carousel {
-    width: 50%;
-    height: 500px;
+    width: 100%;
+    height: 700px;
 }
 
 .hello {
-    height: 500px;
+    height: 700px;
 }
 
 .slidetitle {
@@ -513,4 +506,12 @@ section .section-title {
 }
 .textToast{
     display: inline-block;
+}
+
+
+.profile {
+    display: inline-block;
+    width: 50px;
+    vertical-align: top;
+    margin-top: 0px;
 }
